@@ -15,10 +15,10 @@ The automation script takes district name as input from user and then uses Selen
 
 Make sure you have Python installed on your system. You will also need the following packages:
 
-- requests
-- BeautifulSoup
-- pandas
-- selenium
+- requests (*pip install requests*)
+- BeautifulSoup (*pip install beautifulsoup4*)
+- selenium (*pip install selenium*)
+- pytesseract (*pip install selenium pytesseract Pillow*)
 
 You can install the required packages by running the following command:
 pip install -r requirements.txt
