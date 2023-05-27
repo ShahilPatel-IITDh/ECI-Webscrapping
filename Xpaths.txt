@@ -1,0 +1,6 @@
+Xpath for 'Select District' Drop down menu: //select[@id='ctl00_Content_DistrictList']
+Xpath for 'Select Assembly Constituency' drop down menu: //select[@id='ctl00_Content_AssemblyList']
+Xpath for 'Select Part' drop down menu: //select[@id='ctl00_Content_PartList']
+Xpath for Captcha: //img[@src='Captcha.aspx']
+Xpath for input button for Captcha text: //input[@id='ctl00_Content_txtcaptcha']
+Xpath for 'Open PDF' button: //input[@id='ctl00_Content_OpenButton']
