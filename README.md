@@ -27,9 +27,10 @@ pip install -r requirements.txt
 
 1. Clone the repository
 2. Navigate to the project directory
-3. Run the script
+3. Run the script.py
 
 
+### Final Goal:
 The script will ask for the input from the user after that the PDF containing voter list information will be downloaded in a Folder named 'PDFs' from 'https://ceoelection.maharashtra.gov.in/searchlist/'.
 
 ## Contributions
